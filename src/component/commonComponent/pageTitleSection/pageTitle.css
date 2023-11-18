@@ -1,0 +1,24 @@
+.page-title-section {
+    background-color: #F8F9FC;
+    margin-top: -100px;
+    min-height: 300px;
+}
+
+.page-title-content {
+    padding-top: 170px;
+    margin-left: 20px;
+}
+
+.page-title-content p {
+    font-weight: 600;
+}
+
+.page-title-content p span {
+    text-decoration: none;
+    color: #20B15A;
+}
+
+.page-title-content p a {
+    text-decoration: none;
+    color: black;
+}

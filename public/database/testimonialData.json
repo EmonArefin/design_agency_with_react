@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Alice Bradley",
+        "position": "Backend Developer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+        "img": "https://i.ibb.co/K0DJyfX/member1.png"
+    },
+    {
+        "name": "Alice Bradley",
+        "position": "Backend Developer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+        "img": "https://i.ibb.co/BP5ttzW/member2.png"
+    },
+    {
+        "name": "Alice Bradley",
+        "position": "Backend Developer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+        "img": "https://i.ibb.co/8zPfb5L/member3.png"
+    },
+    {
+        "name": "Alice Bradley",
+        "position": "Backend Developer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+        "img": "https://i.ibb.co/CPNFX0v/member4.png"
+    },
+    {
+        "name": "Alice Bradley",
+        "position": "Backend Developer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+        "img": "https://i.ibb.co/19f1K5h/member5.png"
+    },
+    {
+        "name": "Alice Bradley",
+        "position": "Backend Developer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+        "img": "https://i.ibb.co/0Q3wjnD/member6.png"
+    }
+]

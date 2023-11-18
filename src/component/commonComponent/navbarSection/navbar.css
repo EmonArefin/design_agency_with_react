@@ -1,0 +1,19 @@
+.active-item{
+    color: #157347;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 8px;
+}
+
+.pending-item{
+    color: black;
+    text-decoration: none;
+    font-weight: 600 !important;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.pending-item:hover {
+    background: #157347;
+    color: white;
+}

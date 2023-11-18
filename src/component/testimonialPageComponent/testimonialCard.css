@@ -1,0 +1,25 @@
+.testimonail-card {
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.09);
+    padding: 40px 25px;
+    text-align: center;
+}
+
+.testimonail-card img {
+    width: 100px;
+}
+
+.testimonail-card h4 {
+    font-size: 26px;
+}
+
+.testimonail-card p {
+    color: #9D9D9D;
+    margin: 40px 0;
+}
+
+.testimonail-card h6 {
+    font-size: 16px;
+    font-weight: 400;
+}

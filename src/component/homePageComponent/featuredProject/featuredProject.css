@@ -1,0 +1,21 @@
+body .custom-card {
+    width: 315px;
+    margin-right: 20px;
+}
+
+body .custom-card img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+.row [class*="col-"]:last-child {
+    margin-right: 0;
+}
+
+
+
+
+
+
+
