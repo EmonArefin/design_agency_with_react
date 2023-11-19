@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import Loader from "../../commonComponent/Loader";
 import '../statList/statList.css'
+import CountUp from 'react-countup';
 
 const StatList = () => {
     const [counterData, setCounterData] = useState(null);
@@ -22,7 +23,7 @@ const StatList = () => {
         <div className="col-md-3">
             <div className="stat-card">
                 <img src={data["image"]} alt="Activity" />
-                <h3>{data["number"]}</h3>
+                <h3><CountUp start={-875.039} duration={2.75} end={data["number"]} /></h3>
                 <p>{data["title"]}</p>
             </div>
         </div>
